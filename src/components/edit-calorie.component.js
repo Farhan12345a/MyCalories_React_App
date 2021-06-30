@@ -72,28 +72,28 @@ export default class EditCalorie extends Component {
 
     }
 
-    //change e variable
+  
     onChangeUsername(e){
         this.setState({
             username: e.target.value
         });
     }
 
-     //change e variable
+     
      onChangeFood(e){
         this.setState({
             food: e.target.value
         });
     }
 
-     //change e variable
+     
      onChangeCalories(e){
         this.setState({
             calories: e.target.value
         });
     }
 
-    //change e variable
+    
     //***********CHANGE****** */
     onChangeFat(e){
         this.setState({
@@ -113,7 +113,7 @@ export default class EditCalorie extends Component {
         });
     }
 
-     //change e variable
+     
      onChangeDate(date){
         this.setState({
             date: date
