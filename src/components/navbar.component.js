@@ -1,10 +1,8 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
-//change variable
 export default class Navbar extends Component {
 
-//change this around
 //Can add more sections to navbar here
   render() {
     return (
