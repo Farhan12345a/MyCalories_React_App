@@ -16,14 +16,14 @@ export default class CreateUser extends Component {
         }
     }
 
-    //change e variable
+   
     onChangeUsername(e){
         this.setState({
             username: e.target.value
         });
     }
 
-     //change variable
+     
      onSubmit(e){
         e.preventDefault();
 
