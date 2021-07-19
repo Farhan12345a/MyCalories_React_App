@@ -92,5 +92,4 @@ Calorie_Count.findById(req.params.id)
 });
 
 
-//Could change router variable name
 module.exports = router;
