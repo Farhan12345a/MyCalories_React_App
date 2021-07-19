@@ -1,7 +1,6 @@
 //Import Mongoose
 const mongoose = require('mongoose');
 
-//look at alternative (Udemy)
 const Schema = mongoose.Schema;
 
 
